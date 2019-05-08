@@ -1,0 +1,13 @@
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\julin\Documents\Visual Studio 2019\Projects\Propios\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
